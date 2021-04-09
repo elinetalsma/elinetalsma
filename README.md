@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elinetalsma
 - 👀 I’m interested in zorgplanning, diagnostiek
 - 🌱 I’m currently learning Gerkin featurefiles
-- 💞️ I’m looking to collaborate on impact
+- 💞️ I’m looking to collaborate on impact maken
 - 📫 How to reach me: eline.talsma@topicus.nl
